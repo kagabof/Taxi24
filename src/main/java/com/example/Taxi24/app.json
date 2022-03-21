@@ -1,0 +1,8 @@
+{
+  "name": "Taxi24",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
